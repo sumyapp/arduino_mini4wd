@@ -9,10 +9,10 @@
  *
  * signal1とsignal2で使用するピンに名前を付ける。
  */
-const int SIGNAL1_1 = 4;
-const int SIGNAL1_2 = 5;
-const int SIGNAL2_1 = 2;
-const int SIGNAL2_2 = 3;
+const int SIGNAL1_1 = 9; // FET8
+const int SIGNAL1_2 = 3; // FET2
+const int SIGNAL2_1 = 7; // FET6
+const int SIGNAL2_2 = 5; // FET4
 const int LED = 13;
 
 /**
